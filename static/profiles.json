@@ -1,0 +1,39 @@
+{
+    "profiles": [
+      {
+        "name": "Adam Clark",
+        "image":"adamclark.jpg",
+        "age": 55,
+        "url": "https://www.linkedin.com/in/adamclark",
+        "designation": "CEO" 
+      },
+      {
+        "name": "Chloe Reid",
+        "image":"chloereid.jpg",
+        "age": 45,
+        "url": "https://www.linkedin.com/in/chloereid",
+        "designation": "CIO" 
+      },
+      {
+        "name": "Jane Paige",
+        "image":"janepaige.jpg",
+        "age": 50,
+        "url": "https://www.linkedin.com/in/janepaige",
+        "designation": "CTO" 
+      },
+      {
+        "name": "John Graham",
+        "image":"johngraham.jpg",
+        "age": 51,
+        "url": "https://www.linkedin.com/in/johngraham",
+        "designation": "CFO" 
+      },
+      {
+        "name": "Ruth Lee",
+        "image":"ruthlee.jpg",
+        "age": 38,
+        "url": "https://www.linkedin.com/in/ruthlee",
+        "designation": "Head of Digital Technology" 
+      }
+    ]
+    }
